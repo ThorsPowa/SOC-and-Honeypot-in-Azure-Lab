@@ -13,13 +13,13 @@ In this lab I setup Microsoft Sentinel (SIEM) and connected it to a live virtual
 
 - <b>ipgeolocation.io: IP Address to Geolocation API</b>
 
-<h2>Attacks from Russion incoming; Custom Logs being output with geodata:</h2>
+<h2>Attacks from Russia incoming; Custom Logs being output with geodata:</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/IllBIUa.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>World map of incoming attacks after 4 hours (built custom logs including geodata)</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/d9JE5uP.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
